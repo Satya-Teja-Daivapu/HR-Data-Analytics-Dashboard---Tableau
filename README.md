@@ -8,7 +8,7 @@ Please click on the link to view the dataset (.XLSX)
 - What is the total Employee count of the company?
 - What is the attrition count?
 - What is the current attrition rate?
-- No.od active employees in the company currently.
+- No of active employees in the company currently.
 - Average age of the employees in the company.
 - Department wise attrition.
 - Job satisfaction rating.
@@ -27,4 +27,18 @@ Please click on the link to view the dataset (.XLSX)
 - And finally and a filter on the top and a title for the dashboard.
 
 ## Dashboard
-https://github.com/Satya-Teja-Daivapu/HR-Data-Analytics-Dashboard---Tableau/blob/main/HR%20Analytics%20Dashboard.png?raw=true
+![image](https://github.com/user-attachments/assets/45afffa7-eb1f-4a7b-ba3e-8983edfe9e9b)
+
+## Insights
+
+- The total Employee count of the company - 1470
+- The total Employee Attrition count of the company - 237
+- The total Employee Attrition Rate of the company - 16.12%
+- The total Active Employee count of the company - 1233
+- The Average Age of Employees of the company - 37
+
+## Final Conslusion
+
+To improve the productivity, a strategic business plan focused on Employee retension should be implemented. Active feedback from the employees leaving the company should be given high priority. In addition to the profits of the company, employee wellness should also be considered to reduce the attrition rate and improve the Employee retension count.
+
+## Thankyou
