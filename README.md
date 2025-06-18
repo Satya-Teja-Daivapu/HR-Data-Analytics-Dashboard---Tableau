@@ -27,4 +27,4 @@ Please click on the link to view the dataset (.XLSX)
 - And finally and a filter on the top and a title for the dashboard.
 
 ## Dashboard
-https://github.com/Satya-Teja-Daivapu/HR-Data-Analytics-Dashboard---Tableau/blob/main/HR%20Analytics%20Dashboard.png
+https://github.com/Satya-Teja-Daivapu/HR-Data-Analytics-Dashboard---Tableau/blob/main/HR%20Analytics%20Dashboard.png?raw=true
